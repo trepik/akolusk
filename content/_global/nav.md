@@ -11,6 +11,6 @@ sticky = true
 
 # Branding options
 [asset]
-  image = "logo.svg"
-  text = "Ako lusk"
+  image = "logo.png"
+  text = "Ako LUSK"
 +++

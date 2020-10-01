@@ -1,5 +1,6 @@
 # Site settings
-baseurl = "https:/repik.sk/akolusk/"
+baseurl = "https://repik.sk/akolusk/"
+#baseurl = "/"
 languageCode = "sk"
 title = "Ako LUSK"
 theme = "syna"
