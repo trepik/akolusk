@@ -1,17 +1,16 @@
 +++
 fragment = "nav"
-#disabled = true
-date = "2018-05-17"
+date = "2020-10-01"
 weight = 0
-#background = ""
+sticky = true
 
 [repo_button]
-  url = "https://github.com/okkur/syna"
-  text = "Star" # default: "Star"
-  icon = "fab fa-github" # defaults: "fab fa-github"
+  url = "https://www.facebook.com/Ako-LUSK-225435797501024/"
+  text = "Ako LUSK"
+  icon = "fab fa-facebook-f"
 
 # Branding options
 [asset]
   image = "logo.svg"
-  text = "Syna"
+  text = "Ako lusk"
 +++

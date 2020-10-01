@@ -1,7 +1,7 @@
 # Site settings
-baseurl = "/"
-languageCode = "en-us"
-title = "Okkur - Syna"
+baseurl = "https:/repik.sk/akolusk/"
+languageCode = "sk"
+title = "Ako LUSK"
 theme = "syna"
 enableGitInfo = true
 version = "0.17.3"
@@ -24,8 +24,8 @@ lastmod = ["lastmod", ":git", "date"]
      unsafe = true
 
 [params]
-  name = "Okkur Labs"
-  description = "Open Source Theme for your next project"
+  name = "Ako LUSK"
+  description = "Upratovacie čistiace a tepovacie práce"
 
   [params.style]
     #background = "secondary"
@@ -53,66 +53,76 @@ lastmod = ["lastmod", ":git", "date"]
     pro = false
 
   [params.colors]
-    primary = "#00838F"
-    secondary = "#868e96"
+    primary = "#8aa3f3"
+    secondary = "#d8e4fe"
     success = "#008f54"
     info = "#00c9dc"
     warning = "#fdf314"
     danger = "#dc1200"
-    light = "#f8f9fa"
-    dark = "#343a40"
+    light = "#eeeeff"
+    dark = "#444455"
 
 # main/prepend/postpend menus are displayed in nav fragment.
 # Keep an eye out for updates. These will be moved out to make navbar more
 # configurable.
 [[menu.main]]
   url = "/"
-  name = "Home"
+  name = "Úvod"
   weight = 10
 
 [[menu.main]]
-  url = "/about"
-  name = "About Us"
+  url = "/sluzby"
+  name = "Služby"
   weight = 20
 
 [[menu.main]]
-  url = "#contact"
-  name = "Contact"
+  url = "/referencie"
+  name = "Referencie"
   weight = 30
 
-[[menu.footer]]
-  url = "#"
-  name = "Link"
-  weight = 10
+[[menu.main]]
+  url = "/cennik"
+  name = "Cenník"
+  weight = 40
 
-[[menu.footer]]
-  url = "#"
-  name = "Long Link"
-  weight = 30
+[[menu.main]]
+  url = "/kontakt"
+  name = "Kontakt"
+  weight = 50
 
-[[menu.footer]]
-  url = "#"
-  name = "Tiny Link"
-  weight = 30
+#[[menu.footer]]
+#  url = "#"
+#  name = "Link"
+#  weight = 10
 
-[[menu.copyright_footer]]
-  url = "/about"
-  name = "About Us"
-  weight = 10
+#[[menu.footer]]
+#  url = "#"
+#  name = "Long Link"
+#  weight = 30
 
-[[menu.copyright_footer]]
-  url = "#"
-  name = "Another Link"
-  weight = 30
+#[[menu.footer]]
+#  url = "#"
+#  name = "Tiny Link"
+#  weight = 30
 
-[[menu.footer_social]]
-  weight = 20
-  name = "facebook"
-  pre = "fab fa-facebook-f"
-  url = "#"
+#[[menu.copyright_footer]]
+#  url = "/about"
+#  name = "About Us"
+#  weight = 10
 
-[[menu.footer_social]]
-  weight = 30
-  name = "linkedin"
-  pre = "fab fa-linkedin-in"
-  url = "#"
+#[[menu.copyright_footer]]
+#  url = "#"
+#  name = "Another Link"
+#  weight = 30
+
+#[[menu.footer_social]]
+#  weight = 20
+#  name = "facebook"
+#  pre = "fab fa-facebook-f"
+#  url = "https://www.facebook.com/Ako-LUSK-225435797501024/"
+
+#[[menu.footer_social]]
+#  weight = 30
+#  name = "linkedin"
+#  pre = "fab fa-linkedin-in"
+#  url = "#"
