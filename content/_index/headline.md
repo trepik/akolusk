@@ -2,7 +2,7 @@
 fragment = "hero"
 date = "2020-10-01"
 weight = 50
-background = "primary" # can influence the text color
+background = "light" # can influence the text color
 particles = true
 
 title = "Ako LUSK"

@@ -67,27 +67,27 @@ lastmod = ["lastmod", ":git", "date"]
 # Keep an eye out for updates. These will be moved out to make navbar more
 # configurable.
 [[menu.main]]
-  url = "/"
+  url = ""
   name = "Úvod"
   weight = 10
 
 [[menu.main]]
-  url = "/sluzby"
+  url = "sluzby"
   name = "Služby"
   weight = 20
 
 [[menu.main]]
-  url = "/referencie"
+  url = "referencie"
   name = "Referencie"
   weight = 30
 
 [[menu.main]]
-  url = "/cennik"
+  url = "cennik"
   name = "Cenník"
   weight = 40
 
 [[menu.main]]
-  url = "/kontakt"
+  url = "kontakt"
   name = "Kontakt"
   weight = 50
 
