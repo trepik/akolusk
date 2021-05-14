@@ -5,8 +5,5 @@ weight = 100
 title = "Referencie"
 +++
 
-
-> Dobre upracú tak ako treba
-
-Tomino, Bratislava
+Túto sekciu pre Vás ešte len pripravujeme
 

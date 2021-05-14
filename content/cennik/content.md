@@ -5,7 +5,7 @@ weight = 100
 title = "Cenník"
 +++
 
-K tvorbe cien sa snažíme pristupovať individuálne a to najmä po obhliadke priestorov
+K tvorbe cien sa snažíme pristupovať individuálne a to najmä po obhliadke priestorov, preto sú všetky uvedené ceny len orientačné.
 
 #### Jednorázové upratovanie
 
@@ -44,7 +44,7 @@ Cenu stanovíme dohodou po obhliadke.
 
 - Kreslo
 	- od 5,00 € / miesto                 
-
+.
 Minimálna cena objednávky vrátane dopravy je 35 €
 
 Doprava v Bratislave  -  8 €, doprava mimo Bratislavy do 10 km - 10 €
