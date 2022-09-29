@@ -19,7 +19,7 @@ Benkova Potôň 366
 | DiČ | 1077568624 |
 | IČ DPH | SK1077568624 |
 | | |
-| Andrea Majerová | [+421 903 508 157](tel:+42190350157) |
+| Andrea Majerová | [+421 903 508 157](tel:+421903508157) |
 | Ing. Jaroslav Majer | [+421 905 589 709](tel:+421905589709) |
 | <i class="far fa-envelope"></i> | akolusk@gmail.com |
 

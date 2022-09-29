@@ -10,16 +10,16 @@ K tvorbe cien sa snažíme pristupovať individuálne a to najmä po obhliadke p
 #### Jednorázové upratovanie
 
 - 1-izbový byt
-	- 35€ - 50€
+	- 45€ - 70€
 
 - 2-izbový byt
-	- 50€ - 80€
+	- 60€ - 90€
 
 - 3-izbový byt
-	- 70€ - 100€
+	- 80€ - 110€
 
 - Rodinný dom (5 izieb)
-	- od 100€
+	- od 110€
 
 #### Pravidelné upratovanie
 
@@ -28,26 +28,26 @@ Cenu stanovíme dohodou po obhliadke.
 #### Tepovanie
 
 - Koberec
-	- od 0,50€ / m2
+	- od 1,50€ / m2
 
 - Stolička (sedák)
-	- od 1,50€ / kus     
+	- od 2,50€ / kus
 
 - Matrac
-	- od 3,50€ / strana
+	- od 5,00€ / strana
 
 - Kancárske kreslo
-	- od 3,00€ / kus
+	- od 4,00€ / kus
 
 - Sedačka
-	- od 3,50 € / miesto
+	- od 7,00 € / miesto
 
 - Kreslo
-	- od 5,00 € / miesto                 
+	- od 9,00 € / miesto
 .
 Minimálna cena objednávky vrátane dopravy je 35 €
 
-Doprava v Bratislave  -  8 €, doprava mimo Bratislavy do 10 km - 10 €
+Doprava v Bratislave  -  10 €, doprava mimo Bratislavy podľa km
 
 ostatná doprava - dohodou, pri objednávke nad 65 € - doprava zdarma
 
